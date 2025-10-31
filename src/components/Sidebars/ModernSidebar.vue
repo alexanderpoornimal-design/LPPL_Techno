@@ -6,7 +6,7 @@
         <div class="logo-container">
           <img src="/images/lankapay-logo.png" alt="LankaPay Logo" class="logo-image" />
           <div class="logo-text-container">
-            <h2 class="logo-text">Bubu</h2>
+            <h2 class="logo-text">LankaPay</h2>
             <p class="logo-subtitle">Technnovation Awards</p>
           </div>
         </div>
